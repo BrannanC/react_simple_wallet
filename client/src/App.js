@@ -46,7 +46,7 @@ class App extends Component {
       console.error(error);
     }
     this.getBalance();
-    this.checkAddress(true);
+    this.checkAddress(true); // True forces address and accountBalance update on mount
   };
 
   handleChange = e => {
@@ -58,7 +58,7 @@ class App extends Component {
     if (
       this.state.selectedAddress !==
         this.state.web3.givenProvider.selectedAddress ||
-      check
+      check // check === true forces update
     ) {
       const selectedAddress = this.state.web3.givenProvider.selectedAddress;
       const accountBalance = await this.state.web3.eth.getBalance(
