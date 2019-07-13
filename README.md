@@ -11,7 +11,7 @@ Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-devel
 - [ ] Update `2_deploy_contracts.js` in the migrations directory
 - [ ] First run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "develop").
 
-## Building and the frontend
+## Building the frontend
 - [ ] Run `cd client` followed by `npm install` or `yarn` to install dependencies.
 - [ ] Clean up the unused code in App.js and start building!
 
