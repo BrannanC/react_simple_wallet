@@ -1,5 +1,5 @@
 # react_simple_wallet
-Solution code for SimpleWallet assignment from https://www.udemy.com/blockchain-developer-bundle/ using React instead of Angular
+Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-developer-bundle/ using React instead of Angular
 
 ## Initial Setup
 - [ ] Install truffle if you haven't already, run `npm install -g truffle`
