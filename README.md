@@ -9,7 +9,7 @@ Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-devel
 - [ ] Check `truffle-config.js` for correct host and port numbers
 - [ ] Replace `SimpleStorage.sol` with your `SimpleWallet.sol` file in the contracts directory
 - [ ] Update `2_deploy_contracts.js` in the migrations directory
-- [ ] First run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "development").
+- [ ] First run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "develop").
 
 ## Building and the frontend
 - [ ] Run `cd client` followed by `npm install` or `yarn` to install dependencies.
