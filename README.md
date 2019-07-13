@@ -26,5 +26,5 @@ Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-devel
 ### Notes
 - MetaMask does not give a list of accounts. I opted to have the forms submit from the chosen account in MetaMask instead of choosing from a dropdown. 
 - It seems like there is no longer a way to listen for a change in accounts from MetaMask.
-- You could easily use https://material-ui.com/ to make your wallet look just like the assignment
+- You could easily use https://material-ui.com/ to make your wallet look more like the assignment
 - https://web3js.readthedocs.io/en/1.0/ and `console.log()` are your friend
