@@ -2,7 +2,7 @@
 Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-developer-bundle/ using React instead of Angular
 
 ## Initial Setup
-- [ ] Install truffle if you haven't already, run `npm install -g truffle`
+- [ ] Install truffle if you haven't already with `npm install -g truffle`
 - [ ] To initialize the project using React run `truffle unbox react` inside an empty directory.
 
 ## Set up the contract
