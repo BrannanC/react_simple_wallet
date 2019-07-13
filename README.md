@@ -1,5 +1,5 @@
 # react_simple_wallet
-Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-developer-bundle/ using React instead of Angular. SimpleWallet is a shared wallet where you can deposit Ether, whitelist accounts to use the wallet, blacklist accounts to restict use, and make transactions.
+My solution for SimpleWallet assignment from https://www.udemy.com/blockchain-developer-bundle/ using React instead of Angular. SimpleWallet is a shared wallet where you can deposit Ether, whitelist accounts to use the wallet, blacklist accounts to restict use, and make transactions.
 
 ## Initial Setup
 - [ ] Install truffle if you haven't already with `npm install -g truffle`
