@@ -13,7 +13,8 @@ Solution for SimpleWallet assignment from https://www.udemy.com/blockchain-devel
 
 ## Building the frontend
 - [ ] Run `cd client` followed by `npm install` or `yarn` to install dependencies.
-- [ ] Clean up the unused code in App.js and start building!
+- [ ] Clean up the unused code in App.js and start building! 
+- [ ] Run `npm run start` or `yarn start` to build the app and serve it on http://localhost:3000
 
 ### At a minimum you will want to
 - [ ] Display Wallet balance
